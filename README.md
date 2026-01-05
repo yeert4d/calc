@@ -1,4 +1,4 @@
-#calculator (earlier web project)
+# Calculator (Early web project):
 
 A sinmple calculator app built using vanilla HTML, CSS, and javascript.
 
