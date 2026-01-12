@@ -2,7 +2,7 @@
 
 ---
 
-A sinmple calculator app built using vanilla HTML, CSS, and javascript.
+A simple calculator app built using vanilla HTML, CSS, and javascript.
 
 ---
 
