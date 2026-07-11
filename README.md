@@ -2,15 +2,15 @@
 
 ---
 
-A simple calculator app built using vanilla HTML, CSS, and javascript.
+A simple calculator app built using vanilla HTML, CSS, and JavaScript.
 
 ---
 
-This project was ccreated as an early learning exercise to understand:
+This project was created as an early learning exercise to understand:
   - DOM manipulation;
   - Event handling in JS;
   - Basic UI layout using CSS Grid;
-  - Seperating structure (HTML), logic (JS), and styling (CSS);
+  - Separating structure (HTML), logic (JS), and styling (CSS);
 
 ---
 
@@ -29,6 +29,6 @@ This project was ccreated as an early learning exercise to understand:
 ---
 
 ## Status
-This is an archieved learning project from when I was about 13/14. More advanced work can be found in newer repositaries.
+This is an archived learning project from when I was about 13/14. More advanced work can be found in newer repositories.
 
   
