@@ -29,5 +29,6 @@ This project was ccreated as an early learning exercise to understand:
 ---
 
 ## Status
-This is an archieved learning project. More advanced work can be found in newer repositaries.
+This is an archieved learning project from when I was about 13/14. More advanced work can be found in newer repositaries.
+
   
